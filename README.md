@@ -37,7 +37,7 @@ Press the "Add Todo" button to create the task.
 Reading Tasks:
 
 View all created tasks listed in the main section of the application.
-Each task displays its description along with options to edit or delete.
+Each task displays along with options to edit or delete.
 
 Updating a Task:
 
